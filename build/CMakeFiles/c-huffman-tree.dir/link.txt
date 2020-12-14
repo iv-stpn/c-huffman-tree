@@ -1,0 +1,1 @@
+/bin/g++-9 -g -rdynamic CMakeFiles/c-huffman-tree.dir/main.cpp.o -o c-huffman-tree 
